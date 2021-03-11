@@ -10,6 +10,7 @@ The first model we used is the same model we developed for Practical Machine Lea
 
 
 
+
 ## Facebook FAIR's transformer model
 
 For the second model we chose a pretrained model that was developed by Facebook FAIR for the submission to WMT: Workshop on Statistical Machine Translation 2019. They competed in 4 tasks with this model: English-German, English-Russian (to and from, in both cases) and won in all of them. The model itself is very big (around 10 GBs) and we used it from Torch hub. The GitHub repository of the model can be found [here.](https://github.com/pytorch/fairseq)
